@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+    background-color: brown;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+   }
+ul{
+    color: chartreuse;
+    background-color: black;
+    flex-direction: column;
+    display: flex;
+    align-content: flex-end;
+    align-items: center;
+}
+
+    
